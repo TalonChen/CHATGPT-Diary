@@ -54,6 +54,8 @@ Also include what code from ChatGPT you are unsure of and craft a question that 
 **13. you got rid of the df space jk red keys lanes are unequal again. Can you fix it and make sure that the blocks don't touch the white lines**
 **14. Can you change it so that there is no more space key and there are only 4 lanes. These 4 lanes should have white lines separating each lane and the red, blue, orange, and green blocks fit inside of these lanes. Make sure at the bottom of the bar, there are the respective keys of dfjk**
 
+
+
  
 
 
